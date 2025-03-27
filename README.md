@@ -1,12 +1,10 @@
-# Animation-Button
+# Skeuomorphism Button ⚡
 
-<img style="width: 500px;" src='Baner Button2.jpg'>
+## [Watch it on youtube](https://youtu.be/5Nus-pyTzjM)
+### Skeuomorphism Button ⚡
 
-button with Hover Effect This is a simple project showcasing how to create an interactive button with a hover effect using HTML and CSS and SCSS.
+Beautiful project of a Skeuomorphism style button with animation using HTML & CSS
 
-Features: A visually appealing button with smooth hover animation. Fully responsive and customizable. Easy to integrate into any web project.
+Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@WebZenn)
 
-index.html: The main HTML file containing the button structure. style.css: The CSS file defining the button's appearance and hover effect
-
-Tutorial Video: For a step-by-step guide on how to build this project, check out my YouTube tutorial:
-[Watch the Tutorial](https://youtu.be/hSX7YExjEzo)
+![](/Baner-Button2.jpg)
