@@ -5,6 +5,6 @@
 
 Beautiful project of a Skeuomorphism style button with animation using HTML & CSS
 
-Join the channel to see more videos like this. [WebZenn](https://www.youtube.com/@WebZenn)
+Join the channel to see more videos like this. [WebZenn](https://www.youtube.com/@WebZenn?sub_confirmation=1)
 
 ![](/Baner-Button2.jpg)
